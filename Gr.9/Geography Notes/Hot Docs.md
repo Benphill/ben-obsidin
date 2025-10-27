@@ -1,0 +1,2 @@
+- de chaque doc, identifiez l'aspect de la vie humaine en crise **_et_** la resolution proposée par les personnages principals. Suivent-t-ils un modèle ou une tendance? Pouvez-vous identifier un cas de la correlation ou de la causation?
+- explorez l'article court: aient-t-ils des associations avec ce qui est présenté et l'itinérance?
