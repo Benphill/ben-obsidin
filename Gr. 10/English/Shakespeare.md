@@ -13,3 +13,16 @@ New Queen (Elizabeth 1) - Protestant, unmarried, very different
 
 1. Tragedies
 2. Histories
+3. Comedies
+
+## **Pyramid of Classes**
+
+1. Queen
+2. Noblemen
+3. Gentry
+4. Middling Sort
+5. Lower Sort
+
+## **Women in England**
+
+Women were not able to perform in plays, so female roles were often filled by men
