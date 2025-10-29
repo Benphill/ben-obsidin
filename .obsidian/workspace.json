@@ -136,7 +136,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -200,15 +202,16 @@
   },
   "active": "b1eb46ae55d540b4",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Gr. 10/Gr. 10.md",
+    "Gr. 10/English/English.md",
     "Gr. 10/English/Shakespeare.md",
+    "README.md",
+    "Untitled.canvas",
     "Gr.9/Geography Notes/To Remember for Projects.md",
     "Tags",
     "Gr.9/Business Notes/Bookstore Scenario.md",
-    "Gr. 10/English/English.md",
     "Gr. 10/English/.md",
     "Gr. 10/English",
-    "Gr. 10/Gr. 10.md",
     "Gr. 10/Untitled.md",
     "Gr. 10",
     "Gr.9/Public Speaking and Debate/Passion Speech.md",

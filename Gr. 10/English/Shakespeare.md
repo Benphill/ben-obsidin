@@ -1,3 +1,5 @@
+# Shakespeare
+
 ## **3 Types of Language**
 
 - Uneducated (In Pit) - Colloquial
@@ -25,4 +27,4 @@ New Queen (Elizabeth 1) - Protestant, unmarried, very different
 
 ## **Women in England**
 
-Women were not able to perform in plays, so female roles were often filled by men
+Women were not able to perform in plays, so female roles are often filled by men.
