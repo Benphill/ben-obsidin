@@ -1,0 +1,26 @@
+- [ ] **Pantry**
+- [ ] ==Gold Star Melon - Summer==
+- [ ] Gold Star Pumpkin and Corn - Fall
+- [ ] Large Milk, Goat Milk, Large Brown Egg, Wool, Duck Egg
+
+- [ ] **Fish Tank**
+- [ ] Walleye - Fall /Winter, 12-2, Rain, Lake
+- [ ] ==Sturgeon - Summer/Winter, 6-7, Lake==
+- [ ] Pufferfish - Island, Summer, 12-4, Sunny
+- [ ] Sandfish - Desert, 6-8
+
+- [ ] **Bulletin Board**
+- [x] ==Red Cabbage - Summer ==
+- [x] ==Sunflower - Summer==
+- [ ] Duck Feather - From Duck
+- [x] M. Syrup - Tapper on Maple Tree
+- [x] Truffle - Pig
+- [x] Fried Egg - Egg
+- [x] Maki Roll - Fish, Seaweed, Rice
+- [x] ==Poppy - Summer==
+- [x] ==Wheat - Summer==
+- [x] Apple - Tree can be Harvested in Fall
+- [x] Oak Resin - Tapper in Oak Tree
+- [x] Wine - Any Fruit in Keg
+- [ ] Rabbit's Foot - Rabbit in Deluxe Coop
+- [x] Pomegranate - Tree in Farm
